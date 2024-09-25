@@ -1,9 +1,9 @@
 # ignore 
 # Musonii
-/Musoni
-/Backup
-/.vs
-/_UpgradeReport_Files
-/obj
-/TestResults
+**/Musoni/
+**/Backup/
+**/.vs/
+**/_UpgradeReport_Files/
+**/obj/
+**/TestResults/
 
