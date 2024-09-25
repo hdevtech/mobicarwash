@@ -1,0 +1,36 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Mobi.master.cs" Inherits="MobiWebApplication.Mobi" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>
+    <asp:ContentPlaceHolder ID="title" runat="server">
+    </asp:ContentPlaceHolder>
+    </title>
+    <link href="Styles/main.css" rel="stylesheet" type="text/css" />
+     <link href="StyleSheet1.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    </head>
+<body>
+    <form id="form1" runat="server" with="100%">
+    <div class="wrapper">     
+         <div class="menu" > 
+             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+             <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MOBI CAR WASH Ltd<asp:Label ID="Label1" runat="server" Text="Label" Visible="False"></asp:Label>
+             <br />
+                   
+         </div>
+         <div class="content"> 
+         
+          
+            <asp:ContentPlaceHolder ID="ContentBody" runat="server">        
+            </asp:ContentPlaceHolder>
+            <div class="footer" align="center" ><h2>copyright 2019</h2></div>            
+         </div> 
+    </div>
+    </form>
+</body>
+</html>

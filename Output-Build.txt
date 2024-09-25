@@ -1,0 +1,193 @@
+﻿1>------ Build started: Project: MobiWebApplication, Configuration: Release Any CPU ------
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ClientCreditStatus.aspx.cs(3,7,3,13): warning CS0105: The using directive for 'System' appeared previously in this namespace
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\Operator.aspx.designer.cs(373,67,373,72): warning CS0108: 'MobiWebApplication.WebForm49.Items' hides inherited member 'System.Web.UI.Page.Items'. Use the new keyword if hiding was intended.
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\Default.aspx.cs(107,30,107,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ServiceModification.aspx.cs(183,34,183,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\Users.aspx.cs(117,34,117,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\Service.aspx.cs(150,34,150,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ServiceAll.aspx.cs(427,34,427,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ServiceAll.aspx.cs(601,34,601,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ServiceAll.aspx.cs(909,34,909,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ServiceAll.aspx.cs(1038,34,1038,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ServiceAll.aspx.cs(1143,34,1143,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ServiceAll.aspx.cs(1255,34,1255,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ServiceAll.aspx.cs(1842,34,1842,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ServiceAll.aspx.cs(1946,30,1946,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerWe.aspx.cs(256,30,256,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerWe.aspx.cs(705,30,705,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerWe.aspx.cs(762,34,762,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerWe.aspx.cs(842,30,842,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerWe.aspx.cs(1211,30,1211,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerWe.aspx.cs(1292,34,1292,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerWe.aspx.cs(1353,34,1353,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\WebForm32.aspx.cs(561,34,561,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\WebForm32.aspx.cs(606,34,606,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\WebForm32.aspx.cs(650,34,650,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\WebForm32.aspx.cs(691,34,691,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\WebForm32.aspx.cs(742,34,742,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\WebForm32.aspx.cs(1149,34,1149,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\WebForm32.aspx.cs(1186,34,1186,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\WebForm32.aspx.cs(1218,30,1218,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\WebForm32.aspx.cs(1253,34,1253,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\WebForm32.aspx.cs(1278,30,1278,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\WebForm32.aspx.cs(1423,34,1423,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\WebForm32.aspx.cs(1523,34,1523,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\WebForm32.aspx.cs(1763,30,1763,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\WebForm32.aspx.cs(2095,30,2095,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\WebForm33.aspx.cs(51,34,51,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ProductEntry.aspx.cs(250,34,250,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ProductEntry.aspx.cs(299,34,299,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ProductEntry.aspx.cs(408,34,408,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ProductSort.aspx.cs(422,34,422,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ReportsMenus.aspx.cs(508,34,508,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ReportsMenus.aspx.cs(553,34,553,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ReportsMenus.aspx.cs(597,34,597,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ReportsMenus.aspx.cs(641,34,641,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ReportsMenus.aspx.cs(692,34,692,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\Operator.aspx.cs(114,34,114,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoOperator.aspx.cs(232,30,232,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoOperator.aspx.cs(501,30,501,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoOperator.aspx.cs(562,34,562,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\SMS.aspx.cs(751,30,751,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\SalesDetails.aspx.cs(123,34,123,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoOperator2.aspx.cs(251,34,251,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoOperator2.aspx.cs(600,34,600,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoOperator2.aspx.cs(623,30,623,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoOperator2.aspx.cs(699,30,699,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerWee.aspx.cs(276,30,276,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerWee.aspx.cs(713,30,713,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerWee.aspx.cs(764,34,764,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerWee.aspx.cs(850,30,850,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerWee.aspx.cs(1206,30,1206,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerWee.aspx.cs(1731,30,1731,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerWea.aspx.cs(233,30,233,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerWea.aspx.cs(669,30,669,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerWea.aspx.cs(726,34,726,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerWea.aspx.cs(805,30,805,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerWea.aspx.cs(1165,30,1165,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerWea.aspx.cs(1347,34,1347,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerWea.aspx.cs(1428,34,1428,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ReportsMenu.aspx.cs(585,34,585,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ReportsMenu.aspx.cs(630,34,630,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ReportsMenu.aspx.cs(674,34,674,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ReportsMenu.aspx.cs(715,34,715,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ReportsMenu.aspx.cs(766,34,766,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ReportsMenu.aspx.cs(1214,34,1214,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ReportsMenu.aspx.cs(1251,34,1251,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ReportsMenu.aspx.cs(1283,30,1283,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ReportsMenu.aspx.cs(1318,34,1318,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ReportsMenu.aspx.cs(1343,30,1343,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ReportsMenu.aspx.cs(1508,34,1508,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ReportsMenu.aspx.cs(1608,34,1608,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ReportsMenu.aspx.cs(1906,30,1906,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ReportsMenu.aspx.cs(2172,30,2172,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerKitchen.aspx.cs(144,30,144,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerKitchen.aspx.cs(284,30,284,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerKitchen.aspx.cs(330,30,330,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerKitchen.aspx.cs(389,30,389,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerKitchen.aspx.cs(705,30,705,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ManagerTool.aspx.cs(271,30,271,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ManagerTool.aspx.cs(751,30,751,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ManagerTool.aspx.cs(813,34,813,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ManagerTool.aspx.cs(902,30,902,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ManagerTool.aspx.cs(1244,30,1244,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ManagerTool.aspx.cs(1469,34,1469,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ManagerTool.aspx.cs(1585,34,1585,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ManagerTool.aspx.cs(1952,34,1952,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ManagerTool.aspx.cs(2143,30,2143,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ManagerTool.aspx.cs(2312,34,2312,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ManagerTool.aspx.cs(2443,34,2443,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ManagerTool.aspx.cs(2788,34,2788,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ManagerTool.aspx.cs(3064,30,3064,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\PurchaseLoad.aspx.cs(221,34,221,36): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\UnpaidReport.aspx.cs(84,30,84,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ProductPhisicalStock.aspx.cs(115,30,115,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerKitchens.aspx.cs(144,30,144,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerKitchens.aspx.cs(284,30,284,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerKitchens.aspx.cs(330,30,330,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerKitchens.aspx.cs(389,30,389,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerKitchens.aspx.cs(706,30,706,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\Requests.aspx.cs(144,30,144,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\Requests.aspx.cs(284,30,284,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\Requests.aspx.cs(330,30,330,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\Requests.aspx.cs(389,30,389,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\Requests.aspx.cs(666,30,666,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ClassConstantInfo.cs(12,30,12,36): warning CS0649: Field 'MobiWebApplication.ClassConstantInfo.ConStr' is never assigned to, and will always have its default value null
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\StaffCreditHistoric.aspx.cs(22,17,22,27): warning CS0414: The field 'MobiWebApplication.WebForm7.TotalSales' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\StaffCreditHistoric.aspx.cs(23,17,23,24): warning CS0414: The field 'MobiWebApplication.WebForm7.pydcash' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ViewServedVehicleCredit.aspx.cs(22,17,22,27): warning CS0414: The field 'MobiWebApplication.WebForm27.TotalSales' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ViewServedVehicleCredit.aspx.cs(23,17,23,24): warning CS0414: The field 'MobiWebApplication.WebForm27.pydcash' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ViewClientCredit.aspx.cs(22,17,22,27): warning CS0414: The field 'MobiWebApplication.WebForm28.TotalSales' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ServiceAll.aspx.cs(23,13,23,18): warning CS0649: Field 'MobiWebApplication.WebForm3.annee' is never assigned to, and will always have its default value 0
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ServiceAll.aspx.cs(24,13,24,17): warning CS0649: Field 'MobiWebApplication.WebForm3.mois' is never assigned to, and will always have its default value 0
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ServiceAll.aspx.cs(26,17,26,22): warning CS0414: The field 'MobiWebApplication.WebForm3.Price' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ServiceAll.aspx.cs(27,17,27,23): warning CS0414: The field 'MobiWebApplication.WebForm3.PriceS' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ClientCreditStatus.aspx.cs(24,13,24,18): warning CS0649: Field 'MobiWebApplication.WebForm25.annee' is never assigned to, and will always have its default value 0
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ClientCreditStatus.aspx.cs(25,13,25,17): warning CS0649: Field 'MobiWebApplication.WebForm25.mois' is never assigned to, and will always have its default value 0
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ClientCreditStatus.aspx.cs(27,17,27,24): warning CS0414: The field 'MobiWebApplication.WebForm25.pydcash' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerWe.aspx.cs(22,17,22,27): warning CS0414: The field 'MobiWebApplication.WebForm20.PaidAmount' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\WebForm32.aspx.cs(22,13,22,18): warning CS0649: Field 'MobiWebApplication.WebForm32.annee' is never assigned to, and will always have its default value 0
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\WebForm32.aspx.cs(23,13,23,17): warning CS0649: Field 'MobiWebApplication.WebForm32.mois' is never assigned to, and will always have its default value 0
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\WebForm32.aspx.cs(25,17,25,22): warning CS0414: The field 'MobiWebApplication.WebForm32.Price' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\WebForm32.aspx.cs(26,17,26,23): warning CS0414: The field 'MobiWebApplication.WebForm32.PriceS' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ExpenseReportss.aspx.cs(23,17,23,24): warning CS0414: The field 'MobiWebApplication.WebForm34.pydcash' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ViewStock.aspx.cs(22,17,22,23): warning CS0414: The field 'MobiWebApplication.WebForm39.Totala' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ViewStock.aspx.cs(23,17,23,23): warning CS0414: The field 'MobiWebApplication.WebForm39.Total2' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\Summary.aspx.cs(22,17,22,28): warning CS0414: The field 'MobiWebApplication.WebForm42.AmountGiven' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\Summary.aspx.cs(23,17,23,27): warning CS0414: The field 'MobiWebApplication.WebForm42.NewBalance' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\Search.aspx.cs(22,17,22,27): warning CS0414: The field 'MobiWebApplication.WebForm43.TotalSales' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\Search.aspx.cs(23,17,23,24): warning CS0414: The field 'MobiWebApplication.WebForm43.pydcash' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\InvoiceLong.aspx.cs(21,13,21,18): warning CS0649: Field 'MobiWebApplication.WebForm45.annee' is never assigned to, and will always have its default value 0
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\InvoiceLong.aspx.cs(22,13,22,17): warning CS0649: Field 'MobiWebApplication.WebForm45.mois' is never assigned to, and will always have its default value 0
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ReportsMenus.aspx.cs(22,13,22,18): warning CS0649: Field 'MobiWebApplication.WebForm46.annee' is never assigned to, and will always have its default value 0
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ReportsMenus.aspx.cs(23,13,23,17): warning CS0649: Field 'MobiWebApplication.WebForm46.mois' is never assigned to, and will always have its default value 0
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ReportsMenus.aspx.cs(25,17,25,22): warning CS0414: The field 'MobiWebApplication.WebForm46.Price' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ReportsMenus.aspx.cs(26,17,26,23): warning CS0414: The field 'MobiWebApplication.WebForm46.PriceS' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ReportsMenui.aspx.cs(22,13,22,18): warning CS0169: The field 'MobiWebApplication.WebForm47.annee' is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ReportsMenui.aspx.cs(23,13,23,17): warning CS0169: The field 'MobiWebApplication.WebForm47.mois' is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ReportsMenui.aspx.cs(25,17,25,22): warning CS0414: The field 'MobiWebApplication.WebForm47.Price' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ReportsMenui.aspx.cs(26,17,26,23): warning CS0414: The field 'MobiWebApplication.WebForm47.PriceS' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\NdalReports.aspx.cs(22,13,22,18): warning CS0649: Field 'MobiWebApplication.WebForm48.annee' is never assigned to, and will always have its default value 0
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\NdalReports.aspx.cs(23,13,23,17): warning CS0649: Field 'MobiWebApplication.WebForm48.mois' is never assigned to, and will always have its default value 0
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\NdalReports.aspx.cs(25,17,25,22): warning CS0414: The field 'MobiWebApplication.WebForm48.Price' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\NdalReports.aspx.cs(26,17,26,23): warning CS0414: The field 'MobiWebApplication.WebForm48.PriceS' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ClientPaymentHistoric.aspx.cs(22,17,22,27): warning CS0414: The field 'MobiWebApplication.WebForm50.TotalSales' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ClientPaymentHistoric.aspx.cs(23,17,23,24): warning CS0414: The field 'MobiWebApplication.WebForm50.pydcash' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoOperator.aspx.cs(22,17,22,27): warning CS0414: The field 'MobiWebApplication.WebForm37.PaidAmount' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\MainPage.aspx.cs(23,13,23,18): warning CS0649: Field 'MobiWebApplication.WebForm52.annee' is never assigned to, and will always have its default value 0
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\MainPage.aspx.cs(24,13,24,17): warning CS0649: Field 'MobiWebApplication.WebForm52.mois' is never assigned to, and will always have its default value 0
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\MainPage.aspx.cs(25,13,25,14): warning CS0169: The field 'MobiWebApplication.WebForm52.j' is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\MainPage.aspx.cs(28,13,28,15): warning CS0414: The field 'MobiWebApplication.WebForm52.n2' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\MainPage.aspx.cs(30,16,30,24): warning CS0414: The field 'MobiWebApplication.WebForm52.pathDoc2' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\SalesDetails.aspx.cs(22,17,22,27): warning CS0414: The field 'MobiWebApplication.WebForm55.PaidAmount' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ClientCreditNew.aspx.cs(22,17,22,27): warning CS0414: The field 'MobiWebApplication.WebForm56.PaidAmount' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoOperator2.aspx.cs(22,17,22,27): warning CS0414: The field 'MobiWebApplication.WebForm57.PaidAmount' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoOperator2.aspx.cs(23,17,23,23): warning CS0414: The field 'MobiWebApplication.WebForm57.TOTALM' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoOperator2.aspx.cs(25,17,25,23): warning CS0414: The field 'MobiWebApplication.WebForm57.REMAIN' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerWee.aspx.cs(21,17,21,28): warning CS0414: The field 'MobiWebApplication.WebForm58.TotalInoice' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerWee.aspx.cs(22,17,22,27): warning CS0414: The field 'MobiWebApplication.WebForm58.PaidAmount' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerWea.aspx.cs(21,17,21,28): warning CS0414: The field 'MobiWebApplication.WebForm59.TotalInoice' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerWea.aspx.cs(22,17,22,27): warning CS0414: The field 'MobiWebApplication.WebForm59.PaidAmount' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ReportsMenu.aspx.cs(22,13,22,18): warning CS0649: Field 'MobiWebApplication.WebForm4.annee' is never assigned to, and will always have its default value 0
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ReportsMenu.aspx.cs(23,13,23,17): warning CS0649: Field 'MobiWebApplication.WebForm4.mois' is never assigned to, and will always have its default value 0
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ReportsMenu.aspx.cs(25,17,25,22): warning CS0414: The field 'MobiWebApplication.WebForm4.Price' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ReportsMenu.aspx.cs(26,17,26,23): warning CS0414: The field 'MobiWebApplication.WebForm4.PriceS' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ReportsMenu.aspx.cs(30,17,30,23): warning CS0414: The field 'MobiWebApplication.WebForm4.REMAIN' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerKitchen.aspx.cs(21,17,21,28): warning CS0414: The field 'MobiWebApplication.WebForm60.TotalInoice' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerKitchen.aspx.cs(22,17,22,27): warning CS0414: The field 'MobiWebApplication.WebForm60.PaidAmount' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ManagerTool.aspx.cs(21,17,21,28): warning CS0414: The field 'MobiWebApplication.WebForm61.TotalInoice' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\ManagerTool.aspx.cs(22,17,22,27): warning CS0414: The field 'MobiWebApplication.WebForm61.PaidAmount' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\Billiards.aspx.cs(22,17,22,27): warning CS0414: The field 'MobiWebApplication.WebForm67.PaidAmount' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\Billiards.aspx.cs(23,17,23,23): warning CS0414: The field 'MobiWebApplication.WebForm67.TOTALM' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\Billiards.aspx.cs(24,17,24,22): warning CS0414: The field 'MobiWebApplication.WebForm67.PAIDM' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\Billiards.aspx.cs(25,17,25,23): warning CS0414: The field 'MobiWebApplication.WebForm67.REMAIN' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerKitchens.aspx.cs(21,17,21,28): warning CS0414: The field 'MobiWebApplication.WebForm68.TotalInoice' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\BarRestoManagerKitchens.aspx.cs(22,17,22,27): warning CS0414: The field 'MobiWebApplication.WebForm68.PaidAmount' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\Requests.aspx.cs(21,17,21,28): warning CS0414: The field 'MobiWebApplication.WebForm69.TotalInoice' is assigned but its value is never used
+1>C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\Requests.aspx.cs(22,17,22,27): warning CS0414: The field 'MobiWebApplication.WebForm69.PaidAmount' is assigned but its value is never used
+1>  MobiWebApplication -> C:\Users\cococe\Desktop\Soft\MobiWebApplication\MobiWebApplication\bin\MobiWebApplication.dll
+2>------ Publish started: Project: MobiWebApplication, Configuration: Release Any CPU ------
+2>Connecting to win5176.site4now.net...
+2>Copying all files to temporary location below for package/publish:
+2>obj\Release\Package\PackageTmp.
+2>Publishing folder /...

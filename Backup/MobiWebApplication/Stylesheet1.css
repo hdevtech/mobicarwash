@@ -1,0 +1,495 @@
+﻿
+     
+ #ContentPlaceHolder1_Panel1Productslist
+{
+     float :left;
+    width: 100%;
+    height: 250px;
+ text-align:center;
+
+ 
+}
+
+.Form
+{
+	 width: 100%;
+     
+ 
+	 background: rgb(240, 240, 240);
+}
+.Documeent
+{
+	 width: 80%;
+	 margin: auto;
+	 background: rgb(102, 102, 102);
+	}
+.html {
+        min-width: 960px;
+    }
+.style1 {
+     width: 250px;
+    height: 5px;
+}
+.productImage 
+{
+     width: 150px;
+    height: 150px;
+   vertical-align:central;
+   
+    padding: 10px;
+    border-radius:15px;
+    -moz-border-radius:15px;
+    -webkit-border-radius:15px;
+
+}
+
+.productPrice {
+    font-family:Arial,helivetica,sans-serif; 
+    color:#ffb600;
+}
+.detailPrice {
+    font-size:small;
+    font-weight:bold;
+    color: #3399FF;
+}
+.Button {
+    
+   vertical-align:central;
+   border:0px;
+   margin:10px;
+    padding: 10px;
+    border-radius:4px;
+    -moz-border-radius:4px;
+    -webkit-border-radius:4px;
+    clear:both;
+}
+.txtSearch1 {
+    border: 1px solid #CCCCFF;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    margin-right: 0px;
+	font-size:xx-small;
+	color: #000099;
+}
+.btnSearch {
+     -moz-border-radius:20px;
+    -webkit-border-radius:20px;
+}
+.Panel1Registration {
+      border-style: none;
+	border-color: inherit;
+	border-width: 13px;
+	margin: 10px;
+	padding: 10px;
+	border-radius:14px;
+	background-color:#BDB76B;
+}
+.btnRegister {
+     /*border:13px;
+   margin:10px;
+    padding: 10px;
+    border-radius:4px;*/
+}
+.IconCSS {
+     
+    	width:50%;
+	max-width:50%;
+	height:50%;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+
+
+}
+.IconCSSmaster {
+    	width:80%;
+	max-width:80%;
+	height:80%;
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;
+   
+}
+.datalistcss {
+     /*padding: 10px;
+     border-radius:50px;
+    -moz-border-radius:50px;
+    -webkit-border-radius:50px;*/
+}
+.DetaillsImage {
+     /*padding: 10px;*/
+     border-radius:10px;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+}
+.ImageDetailsByCatg {
+   /*padding: 10px;
+     border-radius:20px;
+    -moz-border-radius:20px;
+    -webkit-border-radius:20px;*/
+   width:50%;
+	max-width:50%;
+	height:50%;
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;
+}
+.Panel1HomePAGE {
+     padding: 10px;
+     border-radius:50px;
+    -moz-border-radius:50px;
+    -webkit-border-radius:50px;
+}
+.PanelLogin {
+    /*padding: 10px;
+    border-radius: 20px;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    background-color:;*/
+}
+.LoginForm {
+    padding: 10px;
+    border-radius: 20px;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    
+}
+.bb {
+     padding: 10px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    
+}
+.bbAdvtCategory {
+     padding: 10px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px; 
+    background-color:rgb(240, 240, 240);
+
+    
+}
+.ddAd { padding: 10px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+.SubDedign {
+    background-color: #999966;
+  
+   
+       width: 120px;
+      height: 80px
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+.SubDedign:hover { 
+    width: 120px;
+      height: 80px
+   
+    border-color:greenyellow;
+     background: #CCFFFF;
+}
+.SubDedign1 {
+   
+  border: 10px;
+   
+      width: 120px;
+      height: 80px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+.SubDedign1:hover { 
+    border-radius: 10px;
+    border-color:greenyellow;
+     background: #CCFFFF;
+}
+.advthome {
+     -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+.advthome:hover {
+        border-radius: 10px;
+       
+        background: rgb(240, 240, 240);
+    }
+.HomeTable {
+      padding: 10px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+.adviImage {
+     padding: 10px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+.TballProducBySub {
+       /*padding: 10px;*/
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    width: 609px;
+    height: 338px;
+}
+.auto-style3 {
+     padding: 10px;  
+     border-radius: 5px;
+      -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+.masterLOGO {
+     width:66%;
+	max-width:60%;
+	height:60%;
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;
+}
+.PanelHomeLogin {  border: 1px solid #CCCCFF;
+            /*width: 70%;
+                height: 472px;
+            padding-left: 4px;
+            padding-right: 4px;
+            padding-top: 4px;
+            padding-bottom: 1px;*/
+            -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+	text-align: left;
+	font-size: large;
+	font-family: "Times New Roman", Times, serif;
+	background-color: #C0C0C0;
+}
+.PanelHomeLogin1 {  border: 1px solid #CCCCFF;
+           
+    
+	text-align: center;
+	font-size: small;
+	margin-bottom: 0px;
+}
+	
+.advitizePlace1 {
+   
+     border: 1px solid #CCCCFF;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+.SearchingHomePlace2 {
+     padding: 5px;  
+     border: 1px solid #CCCCFF;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+      width: 70%;
+        height: 0px;
+        background-color:rgb(240, 240, 240);
+        height: 419px;
+           
+            top: 0px;
+            left: 0px;
+           
+}
+.txtsearch {
+    border: 1px solid #CCCCFF;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    margin-right: 0px;
+	font-size:small;
+	text-align: left;
+	height: 20px;
+}
+.uppercase
+{
+    text-transform: uppercase;
+     border: 1px solid #CCCCFF;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    margin-right: 0px;
+    font-size:small;
+}
+.BtnNewAccount {
+   background-color: #CCFFCC; /* Green */
+    border: 1px solid green;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: medium;
+    cursor: pointer;
+    
+    /*display: block;*/
+    transition: all 0.5s;
+    border-radius: 4px;
+}
+.addannoncemaster {
+    background-color: #CCFFCC; /* Green */
+    border: 1px solid green;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    cursor: pointer;
+    
+    /*display: block;*/
+    transition: all 0.5s;
+    border-radius: 4px;
+}
+.btnNewAccounthome {
+   
+ background-color: #CCFFCC; /* Green */
+    border: 1px solid green;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    cursor: pointer;
+    /*width: 150px;*/
+    /*display: block;*/
+    transition: all 0.5s;
+    border-radius: 4px;
+}
+.btnNewAccounthome:hover {
+    background: #CCFFFF;
+     -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+
+}
+.BtnNewAccount:hover  {
+    background: #CCFFFF;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+}
+.addannoncemaster:hover {
+    background: #CCFFFF;
+     -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+
+}
+
+.linkbtnhome {
+    
+   
+    color: #009900;
+  
+    text-align: center;
+  text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    cursor: pointer;
+   
+    display: block;
+    transition: all 0.5s;
+   
+}
+    .linkbtnhome:hover { 
+        color: #B916FA;
+       font-size:13px;
+      
+      
+    }
+.lnkbtnmaster {
+     color: blue;
+  
+   
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+  
+    display: block;
+    transition: all 0.5s;
+	font-size: 18px;
+	margin-bottom: 0px;
+	text-align: left;
+}
+ .lnkbtnmaster:hover { 
+        color:#996633 ;
+       font-size:18px;
+      
+    }
+.lnkbtnSubcategory { 
+    text-decoration: none;   
+    font-size: 12px;
+}
+.lnkbtnSubcategory:hover { 
+       color: blue;
+       font-size:11px;
+    }
+
+.btnlogin {
+     background-color: #CCFFCC; /* Green */
+    border: 1px solid green;
+    color: black;
+   
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    cursor: pointer;
+    /*width: 150px;*/
+    /*display: block;*/
+    transition: all 0.5s;
+    border-radius: 4px;
+	height: 23px;
+}
+
+.btnlogin:hover {
+    background: #CCFFFF;
+     -webkit-border-radius: 10px;
+  -moz-border-radius: 6px;
+
+}
+.btnaddannce {
+    background-color: #99FF99; /* Green */
+    border: 1px solid green;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    cursor: pointer;
+    width: 150px;
+    /*display: block;*/
+    transition: all 0.5s;
+    border-radius: 4px;
+}
+    .btnaddannce:hover {
+        background: #CCFFFF;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+    } 
+
+   img {
+	width:95%;
+	max-width:95%;
+	}
+    /*img:hover {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);*/
+}
+.SubtypeImage {
+   width:50%;
+	max-width:50%;
+	height:50%;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+}
+.PrdtImagebycategory {
+   
+      /*width: 1020px;*/
+      height: 80px;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+}
+.PrdtImagebycategory:hover { 
+    /*border-radius: 10px;*/
+    /*border-color:greenyellow;*/
+     background: rgb(240, 240, 240);
+}
+.dropPriceperday {
+  background-color:rgb(240, 240, 240);
+  
+   
+}

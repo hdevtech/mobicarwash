@@ -1,0 +1,831 @@
+﻿     
+ #ContentPlaceHolder1_Panel1Productslist
+{
+     float :left;
+    width: 100%;
+    height: 250px;
+ text-align:center;
+
+ 
+}
+
+  .BUTTOM
+ {
+  
+background-color: #99FF99; /* Green */
+    border: 1px solid gray;
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    cursor: pointer;
+    /*width: 150px;*/
+    /*display: block;*/
+    transition: all 0.5s;
+    border-radius: 4px;
+	font-weight: 700;
+	margin-left: 0px;
+	margin-bottom: 0px;
+    margin-right: 8px;
+    }
+
+    .BUTTOMM
+ {
+  
+background-color: #99FF99; /* Green */
+    border: 4px solid gray;
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    cursor: pointer;
+    /*width: 150px;*/
+    /*display: block;*/
+    transition: all 0.5s;
+    border-radius: 12px;
+	font-weight: 700;
+	margin-left: 0px;
+	margin-bottom: 0px;
+    margin-right: 8px;
+}
+
+    .BUTTOMNUMBER
+ {
+  
+background-color:white; /* Green */
+    border: 1px solid white;
+    color: black;  
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    /*width: 150px;*/
+    /*display: block;*/
+    transition: all 0.5s;
+    border-radius: 4px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+    text-align:center;
+}
+    
+    .BUTTOMNUMBERR
+ {
+  
+background-color:white; /* Green */
+    border: 0px none white;
+    color: black;  
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    /*width: 150px;*/
+    /*display: block;*/
+    transition: all 0.5s;
+    border-radius: 4px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+    text-align:center;
+}
+
+        .BUTTOMNUMBER1
+ {
+  
+background-color:white; /* Green */
+    border: 1px solid #244242;
+    color: black;  
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    /*width: 150px;*/
+    /*display: block;*/
+    transition: all 0.5s;
+    border-radius: 4px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+    text-align:center;
+}
+
+
+
+
+    .BUTTOM0
+ {
+  
+background-color: #99FF99; /* Green */
+    border: 1px solid green;
+    color: black;
+    padding: 6px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    cursor: pointer;
+    /*width: 150px;*/
+    /*display: block;*/
+    transition: all 0.5s;
+    border-radius: 4px;
+	font-weight: 700;
+	margin-left: 0px;
+    text-align: center;
+}
+        .BUTTOMCHECKBOX
+ {
+  
+background-color: #99FF99; /* Green */
+
+    color: black;
+    padding: 8px;
+    text-decoration: none;
+    display: inline-block;
+    font-size:xx-large;
+    cursor: pointer;
+    border-radius: 8px;
+	margin-left: 0px;
+    margin-top:0px;
+    resize:both;
+    height:50px;
+    text-align: center;
+    
+   
+}
+	  .BUTTOM1
+ {
+  
+background-color: #99FF99; /* Green */
+    border: 1px solid green;
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    cursor: pointer;
+    /*width: 150px;*/
+    /*display: block;*/
+    transition: all 0.5s;
+    border-radius: 30px;
+	font-weight: 700;
+	margin-left: 0px;
+}
+        .BUTTOMROUND
+ {
+  
+background-color: #99FF99; /* Green */
+    border: 1px solid Orange;
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    cursor: pointer;
+    /*width: 150px;*/
+    /*display: block;*/
+    transition: all 0.5s;
+    border-radius: 80px;
+	font-weight: 700;
+	margin-left: 0px;
+}
+.Form
+{
+	 width: 100%;
+     
+ 
+	 background: rgb(240, 240, 240);
+}
+.Documeent
+{
+	 width: 80%;
+	 margin: auto;
+	 background: rgb(102, 102, 102);
+	}
+.html {
+        min-width: 960px;
+    }
+.style1 {
+     width: 250px;
+    height: 94px;
+}
+.productImage 
+{
+     width: 150px;
+    height: 150px;
+   vertical-align:central;
+   
+    padding: 10px;
+    border-radius:15px;
+    -moz-border-radius:15px;
+    -webkit-border-radius:15px;
+
+}
+
+.productPrice {
+    font-family:Arial,helivetica,sans-serif; 
+    color:#ffb600;
+}
+.detailPrice {
+    font-size:small;
+    font-weight:bold;
+    color: #3399FF;
+}
+.Button {
+    
+   vertical-align:central;
+   border:0px;
+   margin:10px;
+    padding: 10px;
+    border-radius:4px;
+    -moz-border-radius:4px;
+    -webkit-border-radius:4px;
+    clear:both;
+}
+.txtSearch1 {
+    border: 1px solid #CCCCFF;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    margin-right: 0px;
+	font-size:xx-small;
+	color: #000099;
+}
+.btnSearch {
+     -moz-border-radius:20px;
+    -webkit-border-radius:20px;
+}
+.Panel1Registration {
+      border-style: none;
+	border-color: inherit;
+	border-width: 13px;
+	margin: 10px 0px;
+	padding: 10px;
+	border-radius:14px;
+	background-color:#BDB76B;
+    text-align: center;
+}
+.btnRegister {
+     /*border:13px;
+   margin:10px;
+    padding: 10px;
+    border-radius:4px;*/
+}
+.IconCSS {
+     
+    	width:50%;
+	max-width:50%;
+	height:50%;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+
+
+}
+.IconCSSmaster {
+    	width:80%;
+	max-width:80%;
+	height:80%;
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;
+   
+}
+.datalistcss {
+     /*padding: 10px;
+     border-radius:50px;
+    -moz-border-radius:50px;
+    -webkit-border-radius:50px;*/
+}
+.DetaillsImage {
+     /*padding: 10px;*/
+     border-radius:10px;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+}
+.ImageDetailsByCatg {
+   /*padding: 10px;
+     border-radius:20px;
+    -moz-border-radius:20px;
+    -webkit-border-radius:20px;*/
+   width:50%;
+	max-width:50%;
+	height:50%;
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;
+}
+.Panel1HomePAGE {
+     padding: 10px;
+     border-radius:50px;
+    -moz-border-radius:50px;
+    -webkit-border-radius:50px;
+}
+.PanelLogin {
+    /*padding: 10px;
+    border-radius: 20px;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    background-color:;*/
+}
+.LoginForm {
+    padding: 10px;
+    border-radius: 20px;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    
+}
+.bb {
+     padding: 10px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    
+}
+.bbAdvtCategory {
+     padding: 10px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px; 
+    background-color:rgb(240, 240, 240);
+
+    
+}
+.ddAd { padding: 10px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+/*.SubDedign {
+    background-color: #006666; 
+    visibility:initial;
+    
+
+   
+      
+}
+.SubDedign:hover { 
+   
+     background: #006666;
+     cursor: pointer;  
+     visibility:visible*/
+}
+.SubDedign1 {
+   
+  border: 10px;
+   
+      width: 120px;
+      height: 80px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+.SubDedign1:hover { 
+    border-radius: 10px;
+    border-color:greenyellow;
+     background: #CCFFFF;
+}
+.advthome {
+     -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+.advthome:hover {
+        border-radius: 10px;
+       
+        background: rgb(240, 240, 240);
+    }
+.HomeTable {
+      padding: 10px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+.adviImage {
+     padding: 10px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+.TballProducBySub {
+       /*padding: 10px;*/
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    width: 609px;
+    height: 338px;
+}
+.auto-style3 {
+     padding: 10px;  
+     border-radius: 5px;
+      -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+.masterLOGO {
+     width:66%;
+	max-width:60%;
+	height:60%;
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;
+
+}
+.PanelHomeLogin {  border: 1px solid Gray;
+            /*width: 70%;
+                height: 472px;
+            padding-left: 4px;
+            padding-right: 4px;
+            padding-top: 4px;
+            padding-bottom: 1px;*/
+            -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+	text-align: left;
+	font-size: large;
+	font-family: "Times New Roman", Times, serif;
+	background-color: #C0C0C0;
+
+    
+}
+
+.PanelHomeLoginBarResto {  border: 1px solid DarkSlateGray;
+            /*width: 70%;
+                height: 472px;
+            padding-left: 4px;
+            padding-right: 4px;
+            padding-top: 4px;
+            padding-bottom: 1px;*/
+            -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+	text-align: left;
+	font-size: large;
+	font-family: "Times New Roman", Times, serif;
+	background-color: #C0C0C0;
+
+   }
+.PanelHomeLogin1 {  border: 1px solid #CCCCFF;
+           
+    
+	text-align: center;
+	font-size: small;
+	margin-bottom: 0px;
+}
+	.uppercase
+{
+    text-transform: uppercase;  
+    font-size:xx-large;
+	
+}
+.advitizePlace1 {
+   
+     border: 1px solid #CCCCFF;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+.SearchingHomePlace2 {
+    padding: 5px;
+    border: 1px solid #CCCCFF;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    width: 70%;
+    height: 0px;
+    background-color: rgb(240, 240, 240);
+    height: 419px;
+    top: 0px;
+    left: 0px;
+}
+
+.PanelSupport 
+		{
+  
+    border-radius: 20px  ;
+	 -moz-border-radius: 5px;
+    -webkit-border-radius: 5px; 
+            
+        }
+.txtsearch {
+    border: 1px solid #CCCCFF;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    margin-right: 0px;
+	font-size:small;
+	text-align: left;
+	height: 20px;
+}
+.uppercase
+{
+    text-transform: uppercase;
+     border: 1px solid #CCCCFF;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    margin-right: 0px;
+    font-size:small;
+}
+.BtnNewAccount {
+   background-color: #CCFFCC; /* Green */
+    border: 1px solid green;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: medium;
+    cursor: pointer;
+    
+    /*display: block;*/
+    transition: all 0.5s;
+    border-radius: 4px;
+}
+.addannoncemaster {
+    background-color: #CCFFCC; /* Green */
+    border: 1px solid green;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    cursor: pointer;
+    
+    /*display: block;*/
+    transition: all 0.5s;
+    border-radius: 4px;
+}
+.btnNewAccounthome {
+   
+ background-color: #CCFFCC; /* Green */
+    border: 1px solid green;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    cursor: pointer;
+    /*width: 150px;*/
+    /*display: block;*/
+    transition: all 0.5s;
+    border-radius: 4px;
+}
+.btnNewAccounthome:hover {
+    background: #CCFFFF;
+     -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+
+}
+.BtnNewAccount:hover  {
+    background: #CCFFFF;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+}
+.addannoncemaster:hover {
+    background: #CCFFFF;
+     -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+
+}
+
+.linkbtnhome {
+    
+   
+    color: #009900;
+  
+    text-align: center;
+  text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    cursor: pointer;
+   
+    display: block;
+    transition: all 0.5s;
+   
+}
+    .linkbtnhome:hover { 
+        color: #B916FA;
+       font-size:13px;
+      
+      
+    }
+.lnkbtnmaster {
+     color: blue;
+  
+   
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+  
+    display: block;
+    transition: all 0.5s;
+	font-size: 18px;
+	margin-bottom: 0px;
+	text-align: left;
+}
+ .lnkbtnmaster:hover { 
+        color:#996633 ;
+       font-size:18px;
+      
+    }
+.lnkbtnSubcategory { 
+    text-decoration: none;   
+    font-size: 12px;
+}
+.lnkbtnSubcategory:hover { 
+       color: blue;
+       font-size:11px;
+    }
+
+.btnlogin {
+     background-color: #CCFFCC; /* Green */
+    border: 1px solid green;
+    color: black;   
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    cursor: pointer;
+    /*width: 150px;*/
+    /*display: block;*/
+    transition: all 0.5s;
+    border-radius: 4px;
+	}
+
+.btnlogin:hover {
+    background: #CCFFFF;
+     -webkit-border-radius: 10px;
+  -moz-border-radius: 6px;
+
+}
+.btnaddannce {
+    background-color: #99FF99; /* Green */
+    border: 1px solid green;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    cursor: pointer;
+    width: 150px;
+    /*display: block;*/
+    transition: all 0.5s;
+    border-radius: 4px;
+}
+    .btnaddannce:hover {
+        background: #CCFFFF;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+    } 
+
+   img {
+	max-width:95%;
+	}
+    /*img:hover {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);*/
+}
+.SubtypeImage {
+   width:50%;
+	max-width:50%;
+	height:50%;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+}
+.PrdtImagebycategory {
+   
+      /*width: 1020px;*/
+      height: 80px;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+}
+.PrdtImagebycategory:hover { 
+    /*border-radius: 10px;*/
+    /*border-color:greenyellow;*/
+     background: rgb(240, 240, 240);
+}
+.dropPriceperday {
+  background-color:rgb(240, 240, 240);
+  
+   
+}
+
+ .input[type=text]
+       {
+  padding: 4px 4px;
+  margin: 0px 0 0px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+	font-size: small;
+}
+ .input1[type=text]
+       {
+  padding: 4px 4px;
+  margin: 0px 0 0px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-sizing: border-box;
+	font-size: x-large;
+	text-align:left;
+	font-weight: 700;
+}
+
+  .inputSearch[type=text]
+       {
+  padding: 4px 4px;
+  margin: 0px 0 0px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+	font-size: medium;
+	font-weight: 700;
+}
+ .combobox
+       {
+  padding: 4px 4px;
+  margin: 0px 0 0px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+	font-size: small;
+}
+
+ .combobox1
+       {
+  padding: 4px 4px;
+  margin: 0px 0 0px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-sizing: border-box;
+	font-size: x-large;
+	text-align:center;
+}
+  .buton
+       {
+ 
+  border-radius: 8px;
+	font-size: x-large;
+	}
+
+
+LoginButton
+{
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.pannel1Login
+{
+	 border-radius: 16px;
+}
+}
+.buttonManinMenu
+{
+	 border-radius: 16px;
+}
+.ChkBoxClassok input 
+      {
+       width:60px;
+       height:60px;
+       color: black;        
+       cursor: pointer;
+       border-radius: 8px; 
+       }
+
+.ChkBoxClassok1 input 
+      {
+       width:26px;
+       height:26px;
+       color: black;        
+       cursor: pointer;
+      
+       }
+.ChkBoxClassok2 input 
+      {
+       width:40px;
+       height:40px;
+       color: black;        
+       cursor: pointer;
+      
+       }
+
+
+
+  .ShadowAA
+       {
+ text-shadow: 2px 2px 4px red;
+ 
+
+}
+    .FONTSIZER
+       {
+
+ font-size:30px;
+ 
+
+}
+
+.Panel5Registration {
+    border-style: none;
+    background-color:#244242;
+    border-color: inherit;
+    border-width: 2px;
+    margin: 2px 2px 2px 2px; 
+    border-radius: 4px;    
+    text-align: center;
+    cursor: pointer;
+}

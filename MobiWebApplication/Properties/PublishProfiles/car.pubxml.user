@@ -1,0 +1,363 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA0pwFBzUtKUOXaK322C7iPAAAAAACAAAAAAAQZgAAAAEAACAAAACWuttvcwaJY4dXrl1nQ4Ep67QaiBslIe9F0OWOjYggTwAAAAAOgAAAAAIAACAAAAAUpX+L+rmY43zFrJ1IORz7DhgqvwsH6WUeBSbszWY/wSAAAAAPMnXG/IffSH3BadE9vO5/IVYRcGDifdzvJJP+ImwGbUAAAABqgNPo3+ipG6pFKwGpJZL3O+d6nKpjUxpQFrXD4fd4cAz3YVzNs3UhCAlIJF1Q5wsZs+nyJA2EZi+6xBklk2Dh</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="BarRestoManager.Master">
+      <publishTime>11/24/2020 14:55:36</publishTime>
+    </File>
+    <File Include="BarRestoManagerKitchen.aspx">
+      <publishTime>03/15/2024 17:27:47</publishTime>
+    </File>
+    <File Include="BarRestoManagerKitchens.aspx">
+      <publishTime>02/23/2024 23:13:34</publishTime>
+    </File>
+    <File Include="BarRestoManagerWe.aspx">
+      <publishTime>10/25/2022 12:29:22</publishTime>
+    </File>
+    <File Include="BarRestoManagerWea.aspx">
+      <publishTime>02/09/2023 10:50:48</publishTime>
+    </File>
+    <File Include="BarRestoManagerWee.aspx">
+      <publishTime>06/20/2024 17:06:32</publishTime>
+    </File>
+    <File Include="BarRestoOperator.aspx">
+      <publishTime>02/09/2023 12:04:12</publishTime>
+    </File>
+    <File Include="BarRestoOperator.Master">
+      <publishTime>07/01/2021 13:57:24</publishTime>
+    </File>
+    <File Include="BarRestoOperator2.aspx">
+      <publishTime>04/23/2024 11:00:52</publishTime>
+    </File>
+    <File Include="Betty.aspx">
+      <publishTime>05/12/2023 14:44:27</publishTime>
+    </File>
+    <File Include="Billiards.aspx">
+      <publishTime>04/04/2024 19:37:46</publishTime>
+    </File>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>08/04/2024 11:22:49</publishTime>
+    </File>
+    <File Include="bin/MobiWebApplication.dll">
+      <publishTime>08/14/2024 10:38:53</publishTime>
+    </File>
+    <File Include="bin/MobiWebApplication.XmlSerializers.dll">
+      <publishTime>08/14/2024 10:38:54</publishTime>
+    </File>
+    <File Include="ClientCredit.aspx">
+      <publishTime>09/11/2019 14:42:56</publishTime>
+    </File>
+    <File Include="ClientCreditNew.aspx">
+      <publishTime>10/10/2021 08:34:50</publishTime>
+    </File>
+    <File Include="ClientCreditStatus.aspx">
+      <publishTime>05/27/2023 10:39:09</publishTime>
+    </File>
+    <File Include="ClientCreditStatusNew.aspx">
+      <publishTime>07/10/2021 20:41:47</publishTime>
+    </File>
+    <File Include="ClientPaymentHistoric.aspx">
+      <publishTime>04/04/2021 12:35:24</publishTime>
+    </File>
+    <File Include="ConfirmService.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="DailyStaffCredit.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>08/13/2024 18:00:23</publishTime>
+    </File>
+    <File Include="Desktop.Master">
+      <publishTime>01/20/2021 08:27:16</publishTime>
+    </File>
+    <File Include="ExpenseReports.aspx">
+      <publishTime>09/27/2023 19:53:53</publishTime>
+    </File>
+    <File Include="ExpenseReportss.aspx">
+      <publishTime>11/08/2019 16:08:36</publishTime>
+    </File>
+    <File Include="Image/000a5075-7225561563093334.jpg">
+      <publishTime>07/31/2019 21:49:42</publishTime>
+    </File>
+    <File Include="Image/calendar-image-png-16.png">
+      <publishTime>08/26/2019 21:42:48</publishTime>
+    </File>
+    <File Include="Image/Captureggddddfff.JPG">
+      <publishTime>12/04/2019 12:44:12</publishTime>
+    </File>
+    <File Include="Image/Captureu.JPG">
+      <publishTime>08/02/2019 09:34:50</publishTime>
+    </File>
+    <File Include="Image/carrr.JPG">
+      <publishTime>12/04/2019 12:14:24</publishTime>
+    </File>
+    <File Include="Image/CarWashLogoNew.jpg">
+      <publishTime>08/02/2019 08:59:12</publishTime>
+    </File>
+    <File Include="Image/CarWASHSD.JPG">
+      <publishTime>12/04/2019 12:52:04</publishTime>
+    </File>
+    <File Include="Image/FFFFFFFFF.JPG">
+      <publishTime>10/04/2019 09:46:14</publishTime>
+    </File>
+    <File Include="Image/logo123.JPG">
+      <publishTime>09/08/2019 12:55:24</publishTime>
+    </File>
+    <File Include="Image/MOBILIGO.JPG">
+      <publishTime>11/08/2019 13:01:24</publishTime>
+    </File>
+    <File Include="Image/user-244.png">
+      <publishTime>01/19/2024 12:40:44</publishTime>
+    </File>
+    <File Include="Image/washing-car-png-hd-car-wash-business-in-kenya-844.png">
+      <publishTime>12/04/2019 11:28:22</publishTime>
+    </File>
+    <File Include="Invoice.aspx">
+      <publishTime>06/09/2019 11:27:50</publishTime>
+    </File>
+    <File Include="InvoiceLong.aspx">
+      <publishTime>12/18/2020 12:10:12</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>09/07/2019 13:13:22</publishTime>
+    </File>
+    <File Include="MainPage.aspx">
+      <publishTime>01/27/2021 09:20:12</publishTime>
+    </File>
+    <File Include="ManagerTool.aspx">
+      <publishTime>08/07/2024 16:07:04</publishTime>
+    </File>
+    <File Include="ManagerToolNew.Master">
+      <publishTime>02/05/2023 10:01:22</publishTime>
+    </File>
+    <File Include="Mobi.Master">
+      <publishTime>06/17/2023 14:42:48</publishTime>
+    </File>
+    <File Include="Mobicarwashi.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Ndal.Master">
+      <publishTime>11/24/2020 13:54:12</publishTime>
+    </File>
+    <File Include="NdalReports.aspx">
+      <publishTime>04/05/2020 16:41:52</publishTime>
+    </File>
+    <File Include="NewStaff.aspx">
+      <publishTime>07/13/2020 17:08:24</publishTime>
+    </File>
+    <File Include="Operator.aspx">
+      <publishTime>04/09/2020 12:08:06</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>08/04/2024 11:22:50</publishTime>
+    </File>
+    <File Include="PaymentMobile.aspx">
+      <publishTime>06/04/2023 20:19:08</publishTime>
+    </File>
+    <File Include="PriceChange.aspx">
+      <publishTime>12/13/2019 14:14:06</publishTime>
+    </File>
+    <File Include="ProductEntry.aspx">
+      <publishTime>09/11/2019 16:16:18</publishTime>
+    </File>
+    <File Include="ProductPhisicalStock.aspx">
+      <publishTime>08/07/2024 16:01:35</publishTime>
+    </File>
+    <File Include="ProductSort.aspx">
+      <publishTime>09/10/2019 14:58:26</publishTime>
+    </File>
+    <File Include="PurchaseLoad.aspx">
+      <publishTime>05/08/2023 09:54:29</publishTime>
+    </File>
+    <File Include="Registration.aspx">
+      <publishTime>09/10/2020 21:31:32</publishTime>
+    </File>
+    <File Include="RegistrationMobile.aspx">
+      <publishTime>08/04/2024 23:46:22</publishTime>
+    </File>
+    <File Include="ReportsMenu.aspx">
+      <publishTime>08/06/2024 19:20:55</publishTime>
+    </File>
+    <File Include="ReportsMenui.aspx">
+      <publishTime>10/23/2023 07:55:53</publishTime>
+    </File>
+    <File Include="ReportsMenus.aspx">
+      <publishTime>12/15/2020 16:23:52</publishTime>
+    </File>
+    <File Include="Requests.aspx">
+      <publishTime>03/15/2024 18:26:59</publishTime>
+    </File>
+    <File Include="Rpt_ClientCreditStatus.aspx">
+      <publishTime>08/23/2019 16:20:50</publishTime>
+    </File>
+    <File Include="Rpt_DailyReport.aspx">
+      <publishTime>08/23/2019 10:48:50</publishTime>
+    </File>
+    <File Include="SalesDetails.aspx">
+      <publishTime>05/13/2021 17:46:36</publishTime>
+    </File>
+    <File Include="SalessPreports.aspx">
+      <publishTime>01/13/2024 10:29:38</publishTime>
+    </File>
+    <File Include="Search.aspx">
+      <publishTime>09/13/2019 23:08:14</publishTime>
+    </File>
+    <File Include="ServedVehicle.aspx">
+      <publishTime>08/07/2024 11:35:07</publishTime>
+    </File>
+    <File Include="ServedVehiclesCredits.aspx">
+      <publishTime>08/27/2019 15:29:28</publishTime>
+    </File>
+    <File Include="Service References/Client_SMS/configuration.svcinfo">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Service References/Client_SMS/configuration91.svcinfo">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Service References/Client_SMS/item.wsdl">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Service References/Client_SMS/Reference.svcmap">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Service.aspx">
+      <publishTime>09/20/2019 17:35:48</publishTime>
+    </File>
+    <File Include="ServiceAll.aspx">
+      <publishTime>08/14/2024 10:38:42</publishTime>
+    </File>
+    <File Include="ServiceAllOld.aspx">
+      <publishTime>08/07/2024 10:52:16</publishTime>
+    </File>
+    <File Include="ServiceDeriveryForm.aspx">
+      <publishTime>11/06/2020 14:29:10</publishTime>
+    </File>
+    <File Include="ServiceMobile.aspx">
+      <publishTime>08/06/2024 20:05:15</publishTime>
+    </File>
+    <File Include="ServiceModification.aspx">
+      <publishTime>10/15/2019 15:09:36</publishTime>
+    </File>
+    <File Include="ServiceModificationAdmin.aspx">
+      <publishTime>11/08/2019 16:08:34</publishTime>
+    </File>
+    <File Include="SMS.aspx">
+      <publishTime>10/05/2023 14:19:21</publishTime>
+    </File>
+    <File Include="StaffCredit.aspx">
+      <publishTime>12/04/2019 14:01:48</publishTime>
+    </File>
+    <File Include="StaffCreditHistoric.aspx">
+      <publishTime>12/16/2020 10:30:48</publishTime>
+    </File>
+    <File Include="StaffCreditStatus.aspx">
+      <publishTime>08/23/2019 16:38:08</publishTime>
+    </File>
+    <File Include="StaffCreditStatusNew.aspx">
+      <publishTime>05/08/2021 18:57:12</publishTime>
+    </File>
+    <File Include="StaffPayment.aspx">
+      <publishTime>09/18/2019 07:38:56</publishTime>
+    </File>
+    <File Include="Styles/BarResoCSSOperator.css">
+      <publishTime>08/08/2024 09:32:51</publishTime>
+    </File>
+    <File Include="Styles/BarRestoMnager.css">
+      <publishTime>03/07/2022 15:45:10</publishTime>
+    </File>
+    <File Include="Styles/DesktopMaster.css">
+      <publishTime>07/01/2021 13:45:16</publishTime>
+    </File>
+    <File Include="Styles/main.css">
+      <publishTime>06/17/2023 14:45:22</publishTime>
+    </File>
+    <File Include="Styles/ManagerTool.css">
+      <publishTime>05/26/2023 09:20:37</publishTime>
+    </File>
+    <File Include="Stylesheet1.css">
+      <publishTime>08/06/2024 20:29:38</publishTime>
+    </File>
+    <File Include="Summary.aspx">
+      <publishTime>11/08/2019 16:08:34</publishTime>
+    </File>
+    <File Include="Supports.aspx">
+      <publishTime>11/24/2020 16:36:08</publishTime>
+    </File>
+    <File Include="UnpaidReport.aspx">
+      <publishTime>04/30/2023 15:30:35</publishTime>
+    </File>
+    <File Include="Users.aspx">
+      <publishTime>12/12/2019 07:23:30</publishTime>
+    </File>
+    <File Include="ViewClientCredit.aspx">
+      <publishTime>05/10/2023 10:51:42</publishTime>
+    </File>
+    <File Include="ViewClientDailyCredit.aspx">
+      <publishTime>09/11/2019 18:50:44</publishTime>
+    </File>
+    <File Include="ViewServedVehicle.aspx">
+      <publishTime>11/08/2019 16:08:34</publishTime>
+    </File>
+    <File Include="ViewServedVehicleCredit.aspx">
+      <publishTime>11/08/2019 16:08:34</publishTime>
+    </File>
+    <File Include="ViewStaffCreditStatus.aspx">
+      <publishTime>12/09/2019 07:04:32</publishTime>
+    </File>
+    <File Include="ViewStock.aspx">
+      <publishTime>09/14/2021 09:17:16</publishTime>
+    </File>
+    <File Include="Web References/SMSManager/item.wsdl">
+      <publishTime>12/14/2020 09:08:58</publishTime>
+    </File>
+    <File Include="Web References/SMSManager/Reference.map">
+      <publishTime>12/14/2020 09:08:58</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/04/2024 11:22:49</publishTime>
+    </File>
+    <File Include="WebForm20.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="WebForm21.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="WebForm32.aspx">
+      <publishTime>02/19/2023 19:53:04</publishTime>
+    </File>
+    <File Include="WebForm33.aspx">
+      <publishTime>06/03/2024 22:25:52</publishTime>
+    </File>
+    <File Include="WebForm35.aspx">
+      <publishTime>08/04/2024 20:19:18</publishTime>
+    </File>
+    <File Include="WebForm37.aspx">
+      <publishTime>09/09/2019 19:59:19</publishTime>
+    </File>
+    <File Include="WebForm54.aspx">
+      <publishTime>03/08/2022 22:19:04</publishTime>
+    </File>
+    <File Include="WebForm56.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="WebForm68.aspx">
+      <publishTime>09/27/2023 19:36:34</publishTime>
+    </File>
+    <File Include="WebForm71.aspx">
+      <publishTime>08/08/2024 18:06:30</publishTime>
+    </File>
+    <File Include="WiewServedVehicleByDay.aspx">
+      <publishTime>12/19/2019 11:02:46</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

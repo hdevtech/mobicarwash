@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobiWebApplication", "MobiWebApplication\MobiWebApplication.csproj", "{90DFBD04-F733-4DF3-BAD3-C4F2C80D76E2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Musoni", "Musoni\Musoni.vdproj", "{C2C14EA3-BA89-47A4-A98B-B6EF24A66B3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90DFBD04-F733-4DF3-BAD3-C4F2C80D76E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90DFBD04-F733-4DF3-BAD3-C4F2C80D76E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90DFBD04-F733-4DF3-BAD3-C4F2C80D76E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90DFBD04-F733-4DF3-BAD3-C4F2C80D76E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2C14EA3-BA89-47A4-A98B-B6EF24A66B3D}.Debug|Any CPU.ActiveCfg = Debug
+		{C2C14EA3-BA89-47A4-A98B-B6EF24A66B3D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

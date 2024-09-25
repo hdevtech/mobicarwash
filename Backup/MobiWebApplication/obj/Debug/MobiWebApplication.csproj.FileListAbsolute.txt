@@ -1,0 +1,5 @@
+C:\Users\soft\Desktop\MUSONIERIC\MobiWebApplication\Backup\MobiWebApplication\bin\MobiWebApplication.dll
+C:\Users\soft\Desktop\MUSONIERIC\MobiWebApplication\Backup\MobiWebApplication\bin\MobiWebApplication.pdb
+C:\Users\soft\Desktop\MUSONIERIC\MobiWebApplication\Backup\MobiWebApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\soft\Desktop\MUSONIERIC\MobiWebApplication\Backup\MobiWebApplication\obj\Debug\MobiWebApplication.dll
+C:\Users\soft\Desktop\MUSONIERIC\MobiWebApplication\Backup\MobiWebApplication\obj\Debug\MobiWebApplication.pdb
